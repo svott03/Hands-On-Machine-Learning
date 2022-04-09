@@ -1,2 +1,2 @@
 # Hands-On-Machine-Learning
-ML Projects
+Self studying ML Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow.
